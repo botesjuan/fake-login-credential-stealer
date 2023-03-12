@@ -9,7 +9,11 @@ Fake Windows login page
 pip install auto-py-to-exe
 pip install easygui
 auto-py-to-exe
-```
+```  
+
+![auto-py-to-exe.png](auto-py-to-exe.png)  
+
+>Sample of the fake windows login screen.  
 
 ![Sample of the fake login window](fake-preview.PNG)  
 
